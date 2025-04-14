@@ -9,7 +9,6 @@
 /vendor/bundle
 
 # Ignore all environment files (except templates).
-/.env*
 !/.env*.erb
 !.env*.example
 
@@ -69,3 +68,4 @@ coverage
 node_modules
 
 compose.yml
+config.bat
